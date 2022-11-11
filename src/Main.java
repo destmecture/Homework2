@@ -83,7 +83,7 @@ public class Main {
         var newWorkingHours = numberOfEmployers*personHours;
         System.out.println("Если в компании работает " +numberOfEmployers+
                 " человек, то всего " +newWorkingHours+
-                " часов работы может быть поделено между сотрудниками");
+                " часов работы может быть поделено между сотрудниками.");
 
     }
 }
